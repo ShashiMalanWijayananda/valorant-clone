@@ -1,0 +1,32 @@
+/* Typography */
+
+h1 {
+    font-size: 7.5rem;
+    line-height: 2.2rem;
+    font-family: Tungsten-Bold sans-serif;
+}
+
+h2 {
+    font-size: 1.8rem;
+    line-height: 2.0rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+}
+
+h4 {
+    font-size: 1rem;
+    line-height: 1.2rem;
+}
+
+h5 {
+    font-size: 0.9rem;
+    line-height: 1.1rem;
+}
+
+h6 {
+    font-size: 0.8rem;
+    line-height: 1rem;
+}
